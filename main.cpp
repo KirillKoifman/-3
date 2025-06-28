@@ -1,6 +1,7 @@
 #include <iostream>
+#include <string>
 
 int main()
 {
-    std::cout << "Hello, World!\n";
+    std::cout << "Hello, Alternative World!\n";
 }
