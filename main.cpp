@@ -8,4 +8,9 @@ void main()
     {
         std::cout << index << std::endl;
     }
+    while(true)
+    {
+        
+    }
+
 }
