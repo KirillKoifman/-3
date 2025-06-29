@@ -1,7 +1,11 @@
 #include <iostream>
 #include <string>
 
-int main()
+void main()
 {
     std::cout << "Hello, Alternative World!\n";
+    for(int index = 0; index <= 23; ++index)
+    {
+        std::cout << index << std::endl;
+    }
 }
